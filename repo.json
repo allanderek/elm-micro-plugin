@@ -1,0 +1,15 @@
+[
+    {
+        "Name": "elm",
+        "Description": "An elm language plugin",
+        "Tags": [ "elm-lang", "elm" ],
+        "Versions": [
+            {
+              "Version": "0.0.1",
+              "Require": {
+                "micro": ">=1.0.3"
+              }
+            }
+        ]
+    }
+]
